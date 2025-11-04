@@ -7,6 +7,9 @@ money while also having a good social life.
 
 # Credits:
 
-While the art, story, and game script were done by me, the music was not.
+This game was created in a visual novel engine known as Renpy.
 
-All music present in this game is royalty free and by Kevin MacLeod.
+While the art, story, and game script were done by me, the music was not. All music present in this game is royalty free and by Kevin MacLeod.
+
+In addition, a lot of the game's files were created upon making a new project in Renpy. The main files I actually worked on were script.rpy (for the game script)
+and options.rpy (to edit a few of the default options)
